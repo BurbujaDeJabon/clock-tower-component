@@ -31,9 +31,9 @@ const clockArray = [
         title: 'Liver Building',
         location: 'Liverpool, UK',
         image: "https://www.residenthotels.com/wp-content/uploads/2022/06/Royal-Liver-Building.jpeg",
-        stats: 'Height: ? | Date: ?',
+        stats: 'Height: 340ft | Date: 1908',
         description: "Known for its two copper Liver bird sculptures, Bertie and Bella, designed by Carl Bernard Bartel."
-    }
+    },
     
 ];
 
